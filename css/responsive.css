@@ -20,6 +20,7 @@
     margin: 72px;
   }
   col-3 p {
-    
+    width: 50%;
+    float: left;
   }
 }
