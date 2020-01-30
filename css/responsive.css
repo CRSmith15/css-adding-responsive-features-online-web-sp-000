@@ -10,6 +10,16 @@
 
 @media screen and (max-width: 900px) {
   body {
-    font_size
+    font-size: 85%;
+  }
+  #logo h1 {
+    height: 35px;
+    width: 35px;
+  }
+  #socail {
+    margin: 72px;
+  }
+  col-3 p {
+    
   }
 }
